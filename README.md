@@ -6,11 +6,10 @@ Resort Hotels ~ 88
 
 Another interesting fact I found was a country like Russia, bigger in size, diversity, and population than Morroco had a standard deviation in the daily rate at around 50 whereas Morroco had around 68.
 
-There's so much to explore with #data, the depths are never ending here.
-Nevertheless, this was my first ever dashboard in the #tableau #software which would have never been possible if I wouldn't join AlmaBetter
-Thank you Saurabh Kango, It was your sessions with which I was able to learn the miracles of tableau, and also to Shafil Ahamed for evaluating my efforts.
+There's so much to explore with data, the depths are never ending here.
+Nevertheless, this was my first ever dashboard on the Tableau 
 
 
-For those of you who would like to try it out by yourself, I am leaving a link for #tableaupublic - https://lnkd.in/dk7Xx6dH
+For those of you who would like to try it out by yourself, I am leaving a link for tableaupublic - https://lnkd.in/dk7Xx6dH
 
 Or else here's a quick glimpse of the dashboard, would love to hear the feedback.
